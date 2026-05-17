@@ -1,7 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dunya68</title>
+</head>
+
+<body style="background:black; color:white; text-align:center; font-family:Arial;">
+
+<h1>🔥 Dunya68 Affiliate Site 🔥</h1>
+
+<p>En iyi ürünler burada 👇</p>
+
+<a href="https://www.amazon.fr" target="_blank">
+<button style="padding:15px; margin:10px;">Amazon</button>
+</a>
+
 <a href="https://www.tiktok.com" target="_blank">
-<button>TikTok</button>
+<button style="padding:15px; margin:10px;">TikTok</button>
 </a>
 
 <a href="https://www.youtube.com" target="_blank">
-<button>YouTube</button>
+<button style="padding:15px; margin:10px;">YouTube</button>
 </a>
+
+</body>
+</html>
